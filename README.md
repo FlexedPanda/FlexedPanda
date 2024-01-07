@@ -1,8 +1,11 @@
-# 🍻 FlexedPanda
+# 🍻 Farhan Haseen Prantor
 
-**`CSE Undergrad Student`**
+**`Just Another CSE Undergrad Student`**
 
-Hi, I am Md. Farhan Haseen Prantor, a student who is pursuing a BSc. Degree in Computer Science and Engineering from BRAC University. Currently in the process of learning Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. Also, have a huge interest in learning Cyber Security and Blockchain.
+Hi, I'm **Md. Farhan Haseen Prantor**(Also known as FlexedPanda 🐼)
+I'm currently pursuing my BSc. Degree in Computer Science and Engineering from BRAC University. 
+Currently in the process of learning Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. 
+Also, Have a huge interest in learning Cyber Security and Blockchain.
 
 ---
 
