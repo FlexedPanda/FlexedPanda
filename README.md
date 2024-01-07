@@ -1,5 +1,5 @@
 <p align="center" >
-  <img width = "50%" height = "50%" src = "https://github.com/FlexedPanda/FlexedPanda/assets/77376571/bcda2f7c-476a-418a-a2fc-08c190cb4668">
+  <img width = "50%" height = "50%" src = "cover.gif">
 </p>
 
 <h1> 🍻 Farhan Haseen Prantor</h1>
