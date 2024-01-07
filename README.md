@@ -7,11 +7,11 @@ src="https://camo.githubusercontent.com/bd106e9afca092609ea82ae74b5c862a88dd737c
 
 **`Just Another CSE Undergrad Student`**
 
-<p>
+<p><b>
 Currently pursuing my BSc. Degree in Computer Science and Engineering from BRAC University.<br>
 In the process of learning Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.<br>
 Also, Have a huge interest in learning Cyber Security and Blockchain.<br>
-</p>
+</b></p>
 
 ---
 
