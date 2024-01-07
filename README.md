@@ -1,4 +1,3 @@
-
 <p align="center">
   <img alt="Coding" width = "50%" height = "50%"
 src="https://camo.githubusercontent.com/bd106e9afca092609ea82ae74b5c862a88dd737ce5816bd8b01c79da67225330/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966">
@@ -9,7 +8,6 @@ src="https://camo.githubusercontent.com/bd106e9afca092609ea82ae74b5c862a88dd737c
 **`Just Another CSE Undergrad Student`**
 
 <p>
-Hi, I'm <b>Md. Farhan Haseen Prantor</b>, Also known as <b>FlexedPanda 🐼</b><br>
 Currently pursuing my BSc. Degree in Computer Science and Engineering from BRAC University.<br>
 In the process of learning Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.<br>
 Also, Have a huge interest in learning Cyber Security and Blockchain.<br>
