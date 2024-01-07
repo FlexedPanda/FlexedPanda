@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width = '50%' height = '50%'>
   <img src = "https://github.com/FlexedPanda/FlexedPanda/assets/77376571/1732b749-a08a-4032-bc1d-872a515eab8b">
 </p>
 
