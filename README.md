@@ -1,4 +1,4 @@
-# 🐼 FlexedPanda
+# 🍻 FlexedPanda
 
 **`CSE Undergrad Student`**
 
@@ -24,7 +24,6 @@ Hi, I am Md. Farhan Haseen Prantor, a student who is pursuing a BSc. Degree in C
 
 ![FlexedPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlexedPanda&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
