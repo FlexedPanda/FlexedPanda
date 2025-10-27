@@ -7,8 +7,23 @@
 **`CSE Graduate | Bioinformatics Enthusiast | Deep Learning Researcher`**
 
 <p><b>
-I am a detail-oriented and disciplined Computer Science & Engineering graduate from BRAC University with a strong foundation in programming, problem-solving, and teamwork. I thrive in fast-paced environments and excel both independently and collaboratively. My current focus is on Bioinformatics, Deep Learning, and Natural Language Processing, with a keen interest in Cyber Security and Blockchain.
+I am a detail-oriented and disciplined individual with a strong foundation in programming, problem-solving, and teamwork. 
+I thrive in fast-paced environments and excel both independently and collaboratively. 
+My current focus is on Bioinformatics, Deep Learning, and Natural Language Processing, with a keen interest in Cyber Security and Blockchain.
 </b></p>
+
+---
+
+### 🏆 Highlights & Achievements
+
+- **Degree:** BSc. (CSE) from BRAC University, CGPA 3.93/4.00
+- **Academic Achievements:**
+  - Highest Distinction in Academic Standing, BRAC University
+  - Merit-Based Scholarship, BRAC University
+  - Previous Academic Result-Based Scholarship, BRAC University
+- **Experience:** Undergraduate Teaching Assistant for Discrete Mathematics at BRAC University (2024-2025)
+- **Expertise:** Bioinformatics, Deep Learning, Web Development
+- **Interests:** Blockchain, Cyber Security
 
 ---
 
@@ -23,18 +38,6 @@ I am a detail-oriented and disciplined Computer Science & Engineering graduate f
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <br />
-
----
-
-### 🏆 Highlights & Achievements
-
-- **Degree**: BSc. in Computer Science & Engineering from BRAC University, CGPA 3.93/4.00
-- **Academic Achievements**:
-  - Highest Distinction in Academic Standing, BRAC University
-  - Merit-Based Scholarship, BRAC University
-  - Previous Academic Result-Based Scholarship, BRAC University
-- **Experience**: Undergraduate Teaching Assistant for Discrete Mathematics at BRAC University (2024-2025)
-- **Skills**: Bioinformatics, Deep Learning, Web Development, Cyber Security, Blockchain
 
 ---
 
