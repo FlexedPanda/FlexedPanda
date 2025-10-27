@@ -68,4 +68,4 @@ I am a detail-oriented and disciplined individual with a strong foundation in pr
 
 - 💼 LinkedIn: [Farhan Haseen Prantor](https://www.linkedin.com/in/flexedpanda/)
 - 📧 **Email:** [farhan.haseen.prantor@gmail.com](mailto:farhan.haseen.prantor@gmail.com)
-- 🌍 **Location:** Mirpur-1, Dhaka-1216, Bangladesh
+- 🌍 **Location:** Mirpur, Dhaka, Bangladesh
