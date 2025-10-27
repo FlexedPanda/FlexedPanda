@@ -67,3 +67,7 @@ I am a detail-oriented and disciplined Computer Science & Engineering graduate f
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlexedPanda&show_icons=true&theme=gruvbox)
 
 ---
+### 📬 Get in Touch
+
+- 📧 Email: [farhan.haseen.prantor@gmail.com](mailto:farhan.haseen.prantor@gmail.com)
+- 🌍 Location: Mirpur 1, Dhaka 1216, Bangladesh
