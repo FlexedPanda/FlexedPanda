@@ -42,7 +42,7 @@ I am a detail-oriented and disciplined individual with a strong foundation in pr
 
 ### 📚 Projects & Publications
 
-#### 🧬 **MidZPPI: A Sequence-Based Approach for Predicting MultiLabel Protein-Protein Interactions in Midnight-Zone of Protein Sequence Alignments**
+#### 🧬 **[MidZPPI: A Sequence-Based Approach for Predicting MultiLabel Protein-Protein Interactions in Midnight-Zone of Protein Sequence Alignments]()**
 - **Tech Stack:** PyTorch
 - **Role:** BSc. Thesis exploring in the Midnight-Zone of protein sequence alignments using sequence-based approaches.
   
