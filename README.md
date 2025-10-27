@@ -41,33 +41,27 @@ I am a detail-oriented and disciplined Computer Science & Engineering graduate f
 ### 📚 Projects & Publications
 
 #### 🧬 **MidZPPI: A Sequence-Based Approach for Predicting MultiLabel Protein-Protein Interactions in Midnight-Zone of Protein Sequence Alignments**
-- **Tech Stack**: PyTorch
-- **Role**: BSc. Thesis exploring in the Midnight-Zone of protein sequence alignments using sequence-based approaches.
+- **Tech Stack:** PyTorch
+- **Role:** BSc. Thesis exploring in the Midnight-Zone of protein sequence alignments using sequence-based approaches.
   
 #### 🎉 **[EventSpark: Dynamic Event Management System](https://github.com/FlexedPanda/EventSpark-Connecting-Clubs)**
-- **Tech Stack**: MERN Stack, ShadCN, Postman, Figma
-- **Role**: Built a dynamic system for managing events for university clubs.
+- **Tech Stack:** MERN Stack, ShadCN, Postman, Figma
+- **Role:** Built a dynamic system for managing events for university clubs.
 
 #### 🕹️ **[Guessing The Number Game](https://github.com/FlexedPanda/Guessing-The-Number)**
-- **Tech Stack**: Assembly
-- **Role**: Developed a game for guessing randomly generated number using custom hints.
+- **Tech Stack:** Assembly
+- **Role:** Developed a game for guessing randomly generated number using custom hints.
 
 #### 🕹️ **[2048 Game](https://github.com/FlexedPanda/2048)**
-- **Tech Stack**: Python, OpenGL
-- **Role**: Developed the classic 2048 game using Python's OpenGL library.
+- **Tech Stack:** Python, OpenGL
+- **Role:** Developed the classic 2048 game using Python's OpenGL library.
 
 #### 🏫 **[UCMS: University Club Management System](https://github.com/FlexedPanda/UCMS-Club-Management-System)**
-- **Tech Stack**: LAMP Stack (PHP, MySQL)
-- **Role**: Developed a club management system as a course project.
-
----
-
-### 📊 GitHub Stats
-
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlexedPanda&show_icons=true&theme=gruvbox)
+- **Tech Stack:** LAMP Stack (PHP, MySQL)
+- **Role:** Developed a club management system as a course project.
 
 ---
 ### 📬 Get in Touch
 
-- 📧 Email: [farhan.haseen.prantor@gmail.com](mailto:farhan.haseen.prantor@gmail.com)
-- 🌍 Location: Mirpur 1, Dhaka 1216, Bangladesh
+- 📧 **Email:** [farhan.haseen.prantor@gmail.com](mailto:farhan.haseen.prantor@gmail.com)
+- 🌍 **Location:** Mirpur-1, Dhaka-1216, Bangladesh
