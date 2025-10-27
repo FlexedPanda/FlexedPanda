@@ -7,11 +7,10 @@
 **`CSE Graduate | Bioinformatics Enthusiast | Deep Learning Researcher`**
 
 <p><b>
-I am a detail-oriented and disciplined individual with a strong foundation in programming, problem-solving, and teamwork. 
-I thrive in fast-paced environments and excel both independently and collaboratively. 
-My current focus is on Bioinformatics, Deep Learning, and Natural Language Processing, with a keen interest in Cyber Security and Blockchain.
+I am a detail-oriented and disciplined individual with a strong foundation in programming, problem-solving, and teamwork. I thrive in fast-paced environments and excel both independently and collaboratively. My current focus is on Bioinformatics, Deep Learning, and Natural Language Processing, with a keen interest in Cyber Security and Blockchain.
 </b></p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=FlexedPanda)
 ---
 
 ### 🏆 Highlights & Achievements
@@ -64,6 +63,7 @@ My current focus is on Bioinformatics, Deep Learning, and Natural Language Proce
 - **Role:** Developed a club management system as a course project.
 
 ---
+
 ### 📬 Get in Touch
 
 - 📧 **Email:** [farhan.haseen.prantor@gmail.com](mailto:farhan.haseen.prantor@gmail.com)
