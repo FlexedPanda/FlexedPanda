@@ -80,6 +80,16 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 
 ---
 
+## Research
+
+[**MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments**](https://github.com/FlexedPanda)
+
+Undergraduate thesis applying deep learning to the challenging problem of predicting multi-label protein–protein interactions (PPIs) where sequence similarity falls in the "midnight zone" — making conventional alignment approaches unreliable. Combines sequence embeddings and supervised ML to push prediction boundaries in computational bioinformatics.
+
+`Python` `PyTorch` `Bioinformatics` `Deep Learning` `Sequence Analysis`
+
+---
+
 ## Featured Projects
 
 ### [RAGCommerce — E-commerce Support Agent](https://github.com/FlexedPanda/RAGCommerce-Ecommerce-Support-Agent)
@@ -128,16 +138,6 @@ Architected a comprehensive club management system using the **LAMP** stack with
 > Assembly · CSE341 Course Project
 
 Built an interactive number-guessing game in **x86 Assembly** using the **EMU8086** emulator, implementing game logic through register operations, memory management, conditional branching, and I/O handling to demonstrate low-level programming proficiency.
-
----
-
-## Research
-
-**[MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments](https://github.com/FlexedPanda)**
-
-Undergraduate thesis applying deep learning to the challenging problem of predicting multi-label protein–protein interactions (PPIs) where sequence similarity falls in the "midnight zone" — making conventional alignment approaches unreliable. Combines sequence embeddings and supervised ML to push prediction boundaries in computational bioinformatics.
-
-`Python` `PyTorch` `Bioinformatics` `Deep Learning` `Sequence Analysis`
 
 ---
 
