@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Haseen+Prantor+%F0%9F%91%8B;Software+Engineer,+Divergent+Technologies+Ltd;Full-Stack+%7C+AI%2FML;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhan+Haseen+Prantor+%F0%9F%91%8B;Software+Engineer,+Divergent+Technologies+Ltd;Full-Stack+AI%2FML+Engineer;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -145,8 +145,7 @@ Undergraduate thesis applying deep learning to the challenging problem of predic
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=flexedpanda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexedpanda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flexedpanda&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
