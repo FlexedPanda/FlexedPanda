@@ -33,6 +33,16 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=flexedpanda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## Tech Stack
 
 ### Programming Languages
@@ -77,16 +87,6 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Research
-
-[**MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments**](https://github.com/FlexedPanda)
-
-Undergraduate thesis applying deep learning to the challenging problem of predicting multi-label protein–protein interactions (PPIs) where sequence similarity falls in the "midnight zone" — making conventional alignment approaches unreliable. Combines sequence embeddings and supervised ML to push prediction boundaries in computational bioinformatics.
-
-`Python` `PyTorch` `Bioinformatics` `Deep Learning` `Sequence Analysis`
 
 ---
 
@@ -141,19 +141,13 @@ Built an interactive number-guessing game in **x86 Assembly** using the **EMU808
 
 ---
 
-## GitHub Stats
+## Research
 
-<div align="center">
+[**MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments**](https://github.com/FlexedPanda)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flexedpanda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+Undergraduate thesis applying deep learning to the challenging problem of predicting multi-label protein–protein interactions (PPIs) where sequence similarity falls in the "midnight zone" — making conventional alignment approaches unreliable. Combines sequence embeddings and supervised ML to push prediction boundaries in computational bioinformatics.
 
-</div>
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flexedpanda&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+`Python` `PyTorch` `Bioinformatics` `Deep Learning` `Sequence Analysis`
 
 ---
 
@@ -167,5 +161,5 @@ Built an interactive number-guessing game in **x86 Assembly** using the **EMU808
 ---
 
 <div align="center">
-  <sub><i>Open to collaboration on Full-stack AI/ML projects.</i></sub>
+  <sub><i>Open to collaboration on Full-stack AI/ML projects</i></sub>
 </div>
