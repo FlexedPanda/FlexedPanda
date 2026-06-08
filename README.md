@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=flexedpanda&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/flexedpanda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-flexedpanda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/flexedpanda)
 [![Email](https://img.shields.io/badge/Email-farhan.haseen.prantor%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhan.haseen.prantor@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=flexedpanda&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/flexedpanda)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 I'm a **Software Engineer** at **Divergent Technologies Ltd.**, building scalable web applications for Robi's VAS system and HealthPlus platform. I hold a BSc in Computer Science & Engineering from **BRAC University** (CGPA 3.93/4.00, Highest Distinction), where I also served as an undergraduate teaching assistant for Discrete Mathematics across 5 consecutive semesters.
 
-My interests span full-stack engineering, agentic AI systems, and bioinformatics. My thesis, *MidZPPI*, applies deep learning to predict multi-label protein–protein interactions in the midnight zone of sequence alignments.
+My interests span full-stack AI/ML engineering and agentic AI systems. My thesis, *MidZPPI*, applies deep neural networks to predict multi-label protein–protein interactions in the midnight zone of sequence alignments.
 
 - 🏢 &nbsp;Software Engineer @ **Divergent Technologies Ltd.** *(Apr 2025 – Present)*
 - 🎓 &nbsp;BSc CSE · **BRAC University** · CGPA **3.93 / 4.00** · Highest Distinction
@@ -37,7 +37,7 @@ My interests span full-stack engineering, agentic AI systems, and bioinformatics
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frontend Frameworks
@@ -110,6 +110,27 @@ Full-stack event management platform with RESTful APIs, secure authentication, a
 
 ---
 
+### [2048 Game](https://github.com/FlexedPanda/2048)
+> Python · OpenGL · CSE423 Course Project
+
+Created a 2048 puzzle game using **Python** and **OpenGL**, featuring tile animations, collision detection, score tracking, keyboard controls, and an optimized rendering pipeline through object-oriented design principles.
+
+---
+
+### [UCMS — University Club Management System](https://github.com/FlexedPanda/UCMS-Club-Management-System)
+> LAMP Stack · CSE370 Course Project
+
+Architected a comprehensive club management system using the **LAMP** stack with **MariaDB** database design, **PHP** server logic for CRUD operations, role-based authentication, and automated workflows for member registration, event planning, funding requests, and announcements serving multiple user roles.
+
+---
+
+### [Guessing The Number Game](https://github.com/FlexedPanda/Guessing-The-Number)
+> Assembly · CSE341 Course Project
+
+Built an interactive number-guessing game in **x86 Assembly** using the **EMU8086** emulator, implementing game logic through register operations, memory management, conditional branching, and I/O handling to demonstrate low-level programming proficiency.
+
+---
+
 ## Research
 
 **MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments**
@@ -122,12 +143,12 @@ Undergraduate thesis applying deep learning to the challenging problem of predic
 
 ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=flexedpanda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexedpanda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-</div> -->
+</div>
 
 <div align="center">
 
