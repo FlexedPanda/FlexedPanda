@@ -66,7 +66,7 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -74,7 +74,7 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -82,28 +82,28 @@ My interests span full-stack AI/ML engineering and agentic AI systems. My thesis
 
 ## Featured Projects
 
-### [RAGCommerce — E-commerce Support Agent](https://github.com/flexedpanda)
+### [RAGCommerce — E-commerce Support Agent](https://github.com/FlexedPanda/RAGCommerce-Ecommerce-Support-Agent)
 > Python · LangChain · Google Gemini · ChromaDB · HuggingFace · SQLite · Gradio
 
 Agentic customer support chatbot built with **RAG**: ChromaDB + HuggingFace embeddings for semantic retrieval, Google Gemini via LangChain's tool-calling loop for product queries, order creation, tracking, updates, and cancellations. Backed by SQLite for order management and a Gradio web interface.
 
 ---
 
-### [FashionCRM — AI Assistant for Clothing Store](https://github.com/flexedpanda)
+### [FashionCRM — AI Assistant for Clothing Store](https://github.com/FlexedPanda/FashionCRM-AI-Assistant)
 > Python · Google Gemini · Gradio · SQLite
 
 Conversational AI assistant for small retail operations. Store staff manage customer and order data through natural language — price lookups, customer registration, order placement, and status tracking via a Gradio chat interface with atomic stock management against a local SQLite database.
 
 ---
 
-### [CryptoTalk — Anonymous Messaging App](https://github.com/flexedpanda)
+### [CryptoTalk — Anonymous Messaging App](https://github.com/FlexedPanda/CryptoTalk-Anonymous-Messaging-App)
 > Python · Django · RSA · CBC-MAC Encryption
 
 End-to-end encrypted anonymous messaging platform. RSA encryption on all user data, CBC-MAC for message integrity, TOTP-based 2FA for hardened authentication. Full inbox/send flows, profile management, and admin controls.
 
 ---
 
-### [EventSpark — University Club Event Platform](https://github.com/flexedpanda)
+### [EventSpark — University Club Event Platform](https://github.com/FlexedPanda/EventSpark-Connecting-Clubs)
 > MongoDB · Express.js · React.js · Node.js (MERN)
 
 Full-stack event management platform with RESTful APIs, secure authentication, and a responsive UI — enabling university clubs to organize events and students to discover and register for campus activities.
@@ -133,7 +133,7 @@ Built an interactive number-guessing game in **x86 Assembly** using the **EMU808
 
 ## Research
 
-**MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments**
+**[MidZPPI: A Sequence-Based Approach for Predicting Multi-Label Protein–Protein Interactions in the Midnight Zone of Protein Sequence Alignments](https://github.com/FlexedPanda)**
 
 Undergraduate thesis applying deep learning to the challenging problem of predicting multi-label protein–protein interactions (PPIs) where sequence similarity falls in the "midnight zone" — making conventional alignment approaches unreliable. Combines sequence embeddings and supervised ML to push prediction boundaries in computational bioinformatics.
 
@@ -145,13 +145,13 @@ Undergraduate thesis applying deep learning to the challenging problem of predic
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flexedpanda&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=flexedpanda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flexedpanda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flexedpanda&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
