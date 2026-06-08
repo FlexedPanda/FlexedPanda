@@ -2,7 +2,7 @@
   <img width="50%" height="50%" src="cover.gif">
 </p>
 
-<h1>Farhan Haseen Prantor 🍻</h1>
+<h1 align="center">Farhan Haseen Prantor 🍻</h1>
 
 <div align="center">
 
@@ -35,24 +35,26 @@ My interests span full-stack engineering, agentic AI systems, and bioinformatics
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frontend
+### Frontend Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Backend
+### Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Databases
+### Database Management
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -120,12 +122,12 @@ Undergraduate thesis applying deep learning to the challenging problem of predic
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=flexedpanda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexedpanda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-</div>
+</div> -->
 
 <div align="center">
 
